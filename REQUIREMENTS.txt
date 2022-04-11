@@ -1,0 +1,7 @@
+=========================
+REQUIREMENTS
+=========================
+1. Python3
+2. pytest
+3. pytest-ordering
+4. requests

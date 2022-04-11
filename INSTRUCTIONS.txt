@@ -1,0 +1,6 @@
+=========================
+INSTRUCTIONS
+=========================
+1. Install all the requirements in your machine
+2. Open cmd and navigate to TestCases.py file folder
+3. Run  python -m pytest TestCases.py command
